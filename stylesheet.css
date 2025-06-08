@@ -1,8 +1,10 @@
 body {
     background-color: #1d1d1d;
+    color: white;  /* Make most text white*/
   }
   
   h1 {
-    color: #ffffff;
+    color: white;
+    font-size: large;
     margin-left: 10px;
   }
